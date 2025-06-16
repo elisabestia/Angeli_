@@ -1,7 +1,7 @@
 # Quer pasticciaccio, Esame DHDM 2024/2025 
 
 ## Descrizione
-Quer pasticciaccio è un progetto di gestione dei dati. È stato realizzato per l'esame del corso DHDMCH (a.a.2024/2025), presso il Dipartimento di Beni Culturali dell'Univeristà di Bologna.
+Quer pasticciaccio è un progetto di gestione dei dati. È stato realizzato per l'esame del corso [DHDMCH](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2024/502386) (a.a.2024/2025), presso il Dipartimento di Beni Culturali dell'Univeristà di Bologna.
 
 ## Fonti
 Diego Angeli, Le Chiese di Roma, Roma, Società Editrice Dante Alighieri, 1922.
