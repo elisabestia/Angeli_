@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Chiese di Roma</title>
+        <author>Diego Angeli</author>
+      </titleStmt>
+      <publicationStmt>
+      <publisher>Società editrice Dante Alighieri di Albrighi, Segati e C.</publisher>
+        <date>1955</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Testo tratto da documenti storici non strutturati, rielaborato in formato XML secondo le linee guida TEI.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <p>
+        <head>CATERINA DA SIENA</head>
+       
+    
+ <p> <adress><addrLine>In via Magnanapoli</addrLine></adress>nel luogo ove é la Torre delle Milizie. 
+ Nel <date when=1563>1563</date> Porzia Massimi edifico il monastero che oggi serve di caserma e al quale é annessa la chiesa di S. Caterina. 
+ Era uno dei piu grandi di Roma e arrivava dal foro Trajano all’attuale albergo Laurati, comprendendo l’intiera area di Magnanapoli. 
+ Fu abbattuto da Sisto V (<date when=1585>1585</date>, Peretti) e ridotto a proporzioni più modeste. La facciata della chies é di <persName><forename>Giovanbattista</forename><surname>Soria</surname></persName>: le due statue in stucco del Portichetto di <persName><forename>Francesco</forename><surname>Rosa</surname></persName>. </p>
+
+<p> INTERNO.Pareti incrostate di diaspro siciliano; cupola dipinta da <persName><forename>Pietro</forename><surname>Nelli</surname></persName>. A destra: 1. Altare: La Maddalena e pitture laterali e della volta di <persName><forename>Benedetto</forename><surname>Luti</surname></persName>. - 2. Diversi santi di <persName><forename>Luigi</forename><surname>Garzi</surname></persName>. 3.S. Domenico che resuscita un fanciullo di <persName><forename>Biagio</forename><surname>Puccini</surname></persName>. 
+Altar maggiore con un bassorilievo di marmo rappresentante S. Caterina sulle nuvole,opera di <persName><forename>Melchiorre</forename><surname>Cefa di Malta</surname></persName>. A sinistra: | 1. Altare: S. Nicola di <persName><forename>Pietro</forename><surname>Nelli</surname></persName>. - 2. Gli Angeli custodi di <persName><forename>Fabio</forename><surname>della Carnia</surname></persName>. Nella volta: pitture di <persName><forename>G.Paolo</forename><surname>Tedesco</surname></persName>. - 
+3. Nostra Donna del fiosario del <persName>Passeri</persName>. Monumenti sepolerali di <persName><forename>Giuseppe</forename><surname>Bonanni</surname></persName> genovese e di sua moglie <persName><forename>Virginia</forename></persName>. Nella volta: Storie della Vergine del <persName>Passeri</persName>. Nel sottarco: diversi santi di <persName><forename>Gio. Battista</forename><surname>Ruggeri</surname></persName>. Sulla porta dellasacrestia: due tondi, dipinti a fresco dal <persName>Passeri</persName>ri.</p>
+
+
+<head>DIVINO AMORE</head>
+.
+
+<p> <adress> <addrLine>In via de’ Materassai</addrLine> </adress>.
+Si chiamava anticamente S. Biagio ed apparteneva alla confraternita dei Materassai fin dal <date when=1575>1575</date>. Benedetto XIII (<date when=1724>1724</date> Orsini) la fece riedificare dalle fondamenta con disegni e architettura del <persName>Rauzzini</persName>.</p>
+
+<p> INTERNO. — Le decorazioni interne e i quadri in affresco sulle pareti sono del prof. <persName>Prosperi</persName>.
+Le pitture nei tondi sono di <persName><forename>Antonio</forename><surname>Bicchierai</surname></persName>. Sull’altar maggiore: S. Biagio di <persName><forename>Sigismondo</forename><surname>Rosa</surname></persName>. A destra: Il Crocefisso di <persName><forename>Fabrizio</forename><surname>Chiari</surname></persName>. A sinistra: S. Cecilia e S. Valeriano di <persName><forename>Placido</forename><surname>Costanzi</surname></persName>.</p>
+
+
+<head>S. MARIA DELLA MORTE</head>
+
+
+<p> <adress> <addrLine>In via Giulia</addrLine> </adress> , a canto al palazzo Falconieri. Fu edificata nel <date when=1586>1586</date>, per la Compagnia dell’ Orazione che era stata istituita cinquantatré anni prima; e siccome li vicino si venerava una antica immagine della Madonna, questa fu tolta dalla strada e posta sull’altare della nuova chiesa. 
+Nel <date when=1737>1737</date> essa fu riedificata dalle fondamenta e considerevolmente ingrandita con architettura del <persName>Fuga</persName> di cui é anche l’attuale facciata.</p>
+
+<p>INTERNO. — E di forma ellittica: gli affreschi sopra le porte e sulle pareti sono del <persName>Lantranco</persName>.
+A destra: 1. Altare: Sacra Famiglia di <persName><forename>Lorenzo</forename><surname>Masucci</surname></persName>. - Sepolcro di <persName><forename>Agostino</forename><surname>Pietrucci</surname></persName>. - 2. Altare: fu eretto sui disegni di <persName><forename>Paolo</forename><surname>Posi</surname></persName>. S. Michele Arcangelo di un anonimo raffaellesco. - Altar maggiore: Crocefissione di <persName><forename>Ciro</forename><surname>Ferri</surname></persName>. - Antica immagine della Madonna esposta primitivamente nella strada pubblica. - Sepolcro di <persName><forename>Giovanni</forename><surname>Geroso</surname></persName>, detto i letterato, e fondatore dell’ospizio dei fanciulli trovati. - A sinistra: 1. Altare: S. Giuliana Falconieri di <persName><forename>Pier Leone</forename><surname>Ghezzi</surname></persName>. NELL’ORATORIO. — Affreschi del <persName>Lanfranco</persName>.</p>
+
+<head>S. MARIA DEL SUFFRAGIO</head>
+
+
+<p> <adress> <addrLine>In via Giulia</addrLine> </adress> . Fu edificata nel <date when=1616>1616</date> con elargizione del cardinale Bartolommeo Ruspoli, per la Confraternita del Suffragio che fin dal <date when=1592>1592</date> si riuniva nella vicina chiesa di S. Biagio e ne fu architetto <persName><forename>Carlo</forename><surname>Rainaldi</surname></persName>. 
+Nel <date when=1874>1874</date> fu restaurata e ridotta allo stato attuale dall’<persName>Armellini</persName>.</p>
+
+<p>INTERNO. — A una sola navata con cappelle laterali. A destra: 1. Cappella: L’ Adorazione dei Magi, 1 Fatti della Vergine e affreschi della volta di <persName><forename>G.B.</forename><surname>Natali</surname></persName>. 
+Sepolcri di <persName><forename>Pietro</forename><surname>Neri</surname></persName>,pittore cremonese e di <persName><forename>Gaspare</forename><surname>Moroni</surname></persName>, milanese. - 2. La Sacra famiglia di <persName><forename>Giuseppe</forename><surname>Ghezzi</surname></persName>, Abramo di <persName><forename>Gerolamo</forename><surname>Troppa</surname></persName> e Giacobbe del <persName>Calandrucci</persName>. 
+Due sepolcri di diaspro verde con putti del secolo xvii. - 3. Edificata sui disegni di <persName><forename>Giovanni Battista</forename><surname>Contini</surname></persName>. La volta fu dipinta da <persName><forename>Nicola</forename><surname>Berrettoni</surname></persName>. 
+I quadri laterali sono di <persName><forename>Giuseppe</forename><surname>Chiari</surname></persName>. I sepolcri di Elena Papi Marcaccioni e di Gaspare Marcaccioni e gli ornati di stucco sono di <persName><forename>Paolo</forename><surname>Naldini</surname></persName>. ALTAR MAGGIORE. Fu disegnato da <persName><forename>Carloo</forename><surname>Rainaldi</surname></persName>. La Madonna e le anime del purgatorio di <persName><forename>Giuseppe</forename><surname>Ghezzi</surname></persName>. Ai lati: La Resurrezione di Lazzaro, Daniele nella fossa dei Leonie altre pitture del <persName>Bernaschi</persName>. - A sinistra: 1. Cappella. S. Giacinto e S. Caterina di <persName><forename>Daniele</forename><sur
+name>Fiammingo</surname></persName>. Ai lati: quadri di <persName><forename>G.B.</forename><surname>Cimmini</surname></persName>. - 2. S. Giuseppe Calasanzio di <persName><forename>Sebastiano</forename><surname>Ceccarini</surname></persName>. - 3. (Del Crocefisso). Ai lati: due quadri attribuiti al <persName>Lanfranco</persName>.</p>
+
+</body>
+</text>
+</TEI>
