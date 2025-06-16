@@ -4,16 +4,16 @@
 Quer pasticciaccio è un progetto di gestione dei dati. È stato realizzato per l'esame del corso [DHDMCH](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2024/502386) (a.a.2024/2025), presso il Dipartimento di Beni Culturali dell'Univeristà di Bologna.
 
 ## Fonti
-Diego Angeli, Le Chiese di Roma, Roma, Società Editrice Dante Alighieri, 1922.
+[Diego Angeli, Le Chiese di Roma, Roma, Società Editrice Dante Alighieri, 1922.](https://archive.org/details/lechiesediromagu00ange_0/page/n7/mode/2up)
 
 
 ## Metodi e strumenti 
 * GIT HUB
-* Markdown
-* XML TEI
-* Excel
-* Open Refine
-* Wikidata
+* [Markdown](https://www.markdownguide.org/)
+* [XML TEI](https://vscode.dev/)
+* [Excel](https://excel.cloud.microsoft/)
+* [Open Refine](https://openrefine.org/)
+* [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 
 ## Credits 
 Elisabetta Sabattini, <https://orcid.org/0009-0007-9900-8895>, Università di Bologna 
