@@ -20,7 +20,7 @@ In un primo momento si è scelto di marcare:
 ## TEI Refined 
 
 ### Nome del file 
-TEI_refined
+[TEI_refined](TEI-refined)TEI_refined
 
 ### Descrizione 
 In fase di revisione, il processo di marcatura si è focalizzato sulla struttura del testo e sull'identificazione delle opere e dei titoli di queste, presenti all'esterno e all'interno delle chiese. In ultima analisi, gli elementi marcati sono: 
