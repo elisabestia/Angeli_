@@ -15,7 +15,8 @@ Al seguito della scelta dei brani tratti dall'opera di [Diego Angeli, Le Chiese 
 ### Struttura
 - **Numero righe**: 4
 - **Numero colonne**: 13
-  - nome_chiesa	altri_nomi
+  - nome_chiesa
+  - altri_nomi
   - posizione
   - data_costruzione
   - data_riedificazione_restauro
