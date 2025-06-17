@@ -29,13 +29,27 @@ Al seguito della scelta dei brani tratti dall'opera di [Diego Angeli, Le Chiese 
   - responsabili_elementi_ pittorici_sinistra
 
 ## Dataset Refined 
-
+dataset_Angeli_DHDM_refined
 ### Nome del file 
 
 ### Descrizione 
 ### Struttura
 - **Numero righe**: 4
 - **Numero colonne**: 15
+  - nome_chiesa
+  - authority
+  - viaf
+  - altri_nomi
+  - posizione
+  - data_costruzione
+  - data_riedificazione_restauro
+  - responsabili_elementi_architettonici_interni
+  - elementi_scultorei_interni
+  - responsabili_elementi_scultorei_interni
+  - elementi_pittorici_destra
+  - responsabili_elementi_pittorici_destra
+  - elementi_pittorici_sinistra
+  - responsabili_elementi_ pittorici_sinistra 
 
 
 
