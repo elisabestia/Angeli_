@@ -28,6 +28,15 @@ Al seguito della scelta dei brani tratti dall'opera di [Diego Angeli, Le Chiese 
   - elementi_pittorici_sinistra
   - responsabili_elementi_ pittorici_sinistra
 
+## Dataset Refined 
+
+### Nome del file 
+
+### Descrizione 
+### Struttura
+- **Numero righe**: 4
+- **Numero colonne**: 15
+
 
 
 
