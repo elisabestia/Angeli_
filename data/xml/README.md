@@ -10,22 +10,11 @@
 TEI_0
 
 ### Descrizione 
+Dopo aver scaricato i brani scelti dall'opera di Diego ... in formato .txt, essi sono stati caricati su https://vscode.dev/ e marcati in TEI.
 
-### Struttura
-- **Numero righe**: 4
-- **Numero colonne**: 13
-  - nome_chiesa
-  - altri_nomi
-  - posizione
-  - data_costruzione
-  - data_riedificazione_restauro
-  - responsabili_elementi_architettonici_interni
-  - elementi_scultorei_interni
-  - responsabili_elementi_scultorei_interni
-  - elementi_pittorici_destra
-  - responsabili_elementi_pittorici_destra
-  - elementi_pittorici_sinistra
-  - responsabili_elementi_ pittorici_sinistra
+In un primo momento si è scelto di marcare : 
+- 
+
 
 ## TEI Refined 
 
@@ -33,28 +22,5 @@ TEI_0
 TEI_refined
 
 ### Descrizione 
-Il secondo dataset presenta la rielaborazione dei dati. Essa è stata effettuata attraverso Openrefine, sopratutto adoperando la maschera di riconciliazione a fonti esterne come VIAF e Wikidata. 
-
-### Struttura
-- **Numero righe**: 4
-- **Numero colonne**: 15
-  - nome_chiesa
-  - authority
-  - viaf
-  - altri_nomi
-  - posizione
-  - data_costruzione
-  - data_riedificazione_restauro
-  - responsabili_elementi_architettonici_interni
-  - elementi_scultorei_interni
-  - responsabili_elementi_scultorei_interni
-  - elementi_pittorici_destra
-  - responsabili_elementi_pittorici_destra
-  - elementi_pittorici_sinistra
-  - responsabili_elementi_ pittorici_sinistra 
-
-
-
-
-
+In fase di revisione, il processo di marcatura ha 
 
