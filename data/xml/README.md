@@ -4,7 +4,7 @@
 1. TEI_0
 2. TEI_refined
 
-[TEI_0]## TEI Originale
+[TEI_0](TEI-0)## TEI Originale
 
 ### Nome del file 
 TEI_0
