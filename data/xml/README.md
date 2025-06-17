@@ -1,13 +1,13 @@
 # XML
 
 ## Indice 
-1. 
-2. 
+1. TEI_0
+2. TEI_refined
 
-## Dataset Originale 
+## TEI Originale
 
 ### Nome del file 
-
+TEI_0
 
 ### Descrizione 
 
@@ -27,10 +27,10 @@
   - elementi_pittorici_sinistra
   - responsabili_elementi_ pittorici_sinistra
 
-## Dataset Refined 
+## TEI Refined 
 
 ### Nome del file 
-
+TEI_refined
 
 ### Descrizione 
 Il secondo dataset presenta la rielaborazione dei dati. Essa è stata effettuata attraverso Openrefine, sopratutto adoperando la maschera di riconciliazione a fonti esterne come VIAF e Wikidata. 
