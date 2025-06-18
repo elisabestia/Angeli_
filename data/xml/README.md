@@ -8,6 +8,7 @@
 
 ### Nome del file 
 TEI_0
+
 ### Descrizione 
 Dopo aver scaricato i brani scelti dall'opera di [Diego Angeli, Le Chiese di Roma, Roma, Società Editrice Dante Alighieri, 1922.](https://archive.org/details/lechiesediromagu00ange_0/page/n7/mode/2up) in formato .txt, essi sono stati caricati su https://vscode.dev/ e marcati in TEI.
 
@@ -16,7 +17,7 @@ In un primo momento si è scelto di marcare:
  2. luoghi 
  3. date 
 
-## TEI Refined 
+## TEI_Refined 
 
 ### Nome del file 
 TEI_refined
