@@ -17,7 +17,7 @@ In un primo momento si è scelto di marcare:
  2. luoghi 
  3. date 
 
-## TEI_Refined 
+## TEI_refined 
 
 ### Nome del file 
 TEI_refined
