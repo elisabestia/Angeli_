@@ -8,7 +8,7 @@ Quer pasticciaccio è un progetto di gestione dei dati. È stato realizzato per 
 
 
 ## Metodi e strumenti 
-* GIT HUB
+* github
 * [Markdown](https://www.markdownguide.org/)
 * [XML TEI](https://vscode.dev/)
 * [Excel](https://excel.cloud.microsoft/)
