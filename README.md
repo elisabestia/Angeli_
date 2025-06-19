@@ -8,12 +8,13 @@ Quer pasticciaccio è un progetto di gestione dei dati. È stato realizzato per 
 
 
 ## Metodi e strumenti 
-* github
+* Git Hub
 * [Markdown](https://www.markdownguide.org/)
 * [XML TEI](https://vscode.dev/)
 * [Excel](https://excel.cloud.microsoft/)
 * [Open Refine](https://openrefine.org/)
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+* [Zenodo](https://zenodo.org/)
 
 ## Credits 
 Elisabetta Sabattini, <https://orcid.org/0009-0007-9900-8895>, Università di Bologna 
