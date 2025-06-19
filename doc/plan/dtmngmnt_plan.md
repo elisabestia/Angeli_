@@ -25,6 +25,10 @@ _Quer pasticciaccio_ è il titolo del progetto d’esame per il corso di [DHDM](
  # Descrizione dei dati
 ![image](https://github.com/user-attachments/assets/b0b8f115-f4aa-44b0-927f-19f16f7aea75)
 
+I dati sono stati raccolti a partire dalla scansione digitale in formato ```.txt``` dell'opera di Diego Angeli, Le Chiese di Roma. 
+
+Dai passaggi scelti sono stati identificati 
+
 
  # Documentazione e condivisione dei dati
 
