@@ -49,9 +49,9 @@ Tuttavia, il risultato ottenuto presenta una marcata disomogeneità e una scarsa
 
 In ultima analisi, _ Quer pasticciaccio_ ha permesso alcune riflessioni e spunti di lavoro futuro: 
 
-- partire dalla marcatura del testo utilizzando un Thesaurus come quello del [Getty Research Institute](https://www.getty.edu/research/tools/vocabularies/aat/)
-- procedere con l'estrazione dei dati in ```.csv```
-- terminare con la riconciliazione delle authority tramite Open Refine 
+- partire dalla marcatura del testo utilizzando un thesaurus consolidato come quello del [Getty Research Institute](https://www.getty.edu/research/tools/vocabularies/aat/)
+- procedere con l'estrazione e la strutturazione dei dati in ```.csv```
+- completare il processo con la riconciliazione delle authority tramite OpenRefine.
 
 
 
