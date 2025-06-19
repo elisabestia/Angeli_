@@ -6,4 +6,5 @@ I dati seguenti sono stati raccolti durante l'elaborazione del progetto. Si è r
 - **xml** contiene i file utilizzati marcati secondo lo standard TEI
 
 ## DOI 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15697603.svg)](https://doi.org/10.5281/zenodo.15697603) 
+- **csv** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15697603.svg)](https://doi.org/10.5281/zenodo.15697603) , [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15697626.svg)](https://doi.org/10.5281/zenodo.15697626)
+  
