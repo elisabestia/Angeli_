@@ -33,6 +33,6 @@ _Quer pasticciaccio_ è il titolo del progetto d’esame per il corso di [DHDM](
 I dati sono archiviati e resi accessibili su Git Hub, il cui dataset è composto da due cartelle:
 
 1. data, che include due sotto cartelle, **csv** e **xml** ;
-2. docs, al cui interno sono presenti la **fonte** utilizzata e il  **data managementplan**
+2. docs, al cui interno sono presenti la **fonte** utilizzata e il  **data management plan**
  
  
