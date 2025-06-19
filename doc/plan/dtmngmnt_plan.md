@@ -4,7 +4,7 @@
 - [Introduzione](#Introduzione)
 - [Descrizione dei dati](#Descrizionedeidati)
 - [Documentazione e condivisione dei dati](#Documentazioneecondivisionedeidati)
-- [Backup e archiviazione](#Backupearchiviazione)
+- [Licenza](#Licenza)
 
  # Autrice
 Elisabetta Sabattini, <https://orcid.org/0009-0007-9900-8895>, Università di Bologna 
@@ -55,13 +55,14 @@ In ultima analisi, _ Quer pasticciaccio_ ha permesso alcune riflessioni e spunti
 
 Solo seguendo questo percorso sistematico si potrà ottenere un dataset affidabile, coerente e interoperabile, capace di valorizzare adeguatamente il patrimonio culturale analizzato e di supportare future ricerche digitali in ambito storico-artistico.
 
- # Documentazione e condivisione dei dati
-
-
- # Backup e archiviazione
+ # Documentazione, archiviazione e condivisione dei dati, 
 I dati sono archiviati e resi accessibili su Git Hub, il cui dataset è composto da due cartelle:
 
 1. data, che include due sotto cartelle, **csv** e **xml** ;
 2. docs, al cui interno sono presenti la **fonte** utilizzata e il  **data management plan**
- 
+
+Inoltre si è provveduto a preservare i dataset tabellari pubblicandoli su [Zenodo](https://zenodo.org/) e creando un DOI per ognuno di essi. 
+
+# Licenza 
+La scelta della licenza ```CC0 1.0 Universal``` è stata presa rispetto alla volontà di rendere il tutto accessibile e disponibile. 
  
