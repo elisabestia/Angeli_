@@ -15,12 +15,11 @@ Elisabetta Sabattini, <https://orcid.org/0009-0007-9900-8895>, Università di Bo
 3. Organizzazione in forma tabellare tramite Excel
 4. Conversione in csv
 5. Applicazione di Openrefine per verificare le authority di nomi delle chiese 
-6. Sulla base dell'ultima tabella csv, marcatura seguendo XML Tei
+6. Sulla base dell'ultima tabella csv, marcatura seguendo XML-TEI
 7. Ipotesi
 
  # Introduzione
-_Quer pasticciaccio_ è il titolo del progetto d’esame per il corso di [DHDM](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2024/502386)(a.a. 2024/2025). L’obiettivo iniziale era ambizioso: sviluppare una pipeline in grado di mettere in relazione i dati contenuti nei file CSV, verificarne le authority e procedere alla marcatura in XML-TEI. Il risultato finale si discosta significativamente da questa aspirazione, ma ha comunque generato spunti di riflessione e aperto interessanti prospettive.
-
+_Quer pasticciaccio_ è il titolo del progetto d’esame per il corso di [DHDM](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2024/502386)(a.a. 2024/2025). Il progetto mirava alla realizzazione di una pipeline capace di integrare i dati presenti nei file CSV, verificarne le authority e convertirli secondo il formato XML-TEI. Sebbene il risultato finale si discosti dall'obiettivo iniziale, il lavoro svolto ha offerto spunti significativi di riflessione e individuato possibili direzioni di sviluppo futuro.
 
  # Descrizione dei dati
 
