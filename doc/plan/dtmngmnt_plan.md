@@ -53,7 +53,7 @@ In ultima analisi, _ Quer pasticciaccio_ ha permesso alcune riflessioni e spunti
 - procedere con l'estrazione e la strutturazione dei dati in ```.csv```
 - completare il processo con la riconciliazione delle authority tramite OpenRefine.
 
-
+Solo seguendo questo percorso sistematico si potrà ottenere un dataset affidabile, coerente e interoperabile, capace di valorizzare adeguatamente il patrimonio culturale analizzato e di supportare future ricerche digitali in ambito storico-artistico.
 
  # Documentazione e condivisione dei dati
 
