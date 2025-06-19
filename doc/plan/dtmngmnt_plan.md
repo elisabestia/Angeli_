@@ -23,7 +23,7 @@ Elisabetta Sabattini, <https://orcid.org/0009-0007-9900-8895>, Università di Bo
 _Quer pasticciaccio_ è il titolo del progetto d’esame per il corso di [DHDM](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2024/502386) (a.a. 2024/2025). Il progetto mirava alla realizzazione di una pipeline capace di integrare i dati presenti nei file ```.csv```, verificarne le authority e convertirli secondo il formato XML TEI. Sebbene il risultato finale si discosti dall'obiettivo iniziale, il lavoro svolto ha offerto spunti significativi di riflessione e individuato possibili direzioni di sviluppo futuro.
 
  # Descrizione dei dati
- ![frontespizio](![image](https://github.com/user-attachments/assets/b0b8f115-f4aa-44b0-927f-19f16f7aea75)
+(![image](https://github.com/user-attachments/assets/b0b8f115-f4aa-44b0-927f-19f16f7aea75)
 
 
  # Documentazione e condivisione dei dati
