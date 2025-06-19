@@ -55,7 +55,7 @@ In ultima analisi, _ Quer pasticciaccio_ ha permesso alcune riflessioni e spunti
 
 Solo seguendo questo percorso sistematico si potrà ottenere un dataset affidabile, coerente e interoperabile, capace di valorizzare adeguatamente il patrimonio culturale analizzato e di supportare future ricerche digitali in ambito storico-artistico.
 
- # Documentazione, archiviazione e condivisione dei dati, 
+ # Documentazione, archiviazione e condivisione dei dati 
 I dati sono archiviati e resi accessibili su Git Hub, il cui dataset è composto da due cartelle:
 
 1. data, che include due sotto cartelle, **csv** e **xml** ;
