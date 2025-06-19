@@ -7,7 +7,7 @@
 - [Backup e archiviazione](#Backupearchiviazione)
 
  # Autrice
-
+Elisabetta Sabattini, 
  # Sommario esecutivo
 
  # Introduzione
