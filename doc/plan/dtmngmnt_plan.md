@@ -19,7 +19,7 @@ Elisabetta Sabattini, <https://orcid.org/0009-0007-9900-8895>, Università di Bo
 7. Ipotesi
 
  # Introduzione
-_Quer pasticciaccio_ è il titolo del progetto d’esame per il corso di [DHDM](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2024/502386)(a.a. 2024/2025). Il progetto mirava alla realizzazione di una pipeline capace di integrare i dati presenti nei file CSV, verificarne le authority e convertirli secondo il formato XML TEI. Sebbene il risultato finale si discosti dall'obiettivo iniziale, il lavoro svolto ha offerto spunti significativi di riflessione e individuato possibili direzioni di sviluppo futuro.
+_Quer pasticciaccio_ è il titolo del progetto d’esame per il corso di [DHDM](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2024/502386) (a.a. 2024/2025). Il progetto mirava alla realizzazione di una pipeline capace di integrare i dati presenti nei file CSV, verificarne le authority e convertirli secondo il formato XML TEI. Sebbene il risultato finale si discosti dall'obiettivo iniziale, il lavoro svolto ha offerto spunti significativi di riflessione e individuato possibili direzioni di sviluppo futuro.
 
  # Descrizione dei dati
 
