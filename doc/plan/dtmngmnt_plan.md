@@ -11,8 +11,12 @@ Elisabetta Sabattini, <https://orcid.org/0009-0007-9900-8895>, Università di Bo
 
  # Sommario esecutivo
 1. Scelta dei brani dall'opera di Diego ....
-2. Estratti in forma tabellare
-3. Sulla base della tabella csv, marcatura seguendo XML Tei
+2. Estrazione manuale dei dati dei testi scelti
+3. Decisa la forma tabellare dei dati in Excel
+4. Conversione in csv
+5. Utilizzo di Openrefine per verificare le authority di nomi delle chiese 
+6. Sulla base dell'ultima tabella csv, marcatura seguendo XML Tei
+7. Ipotesi
 
  # Introduzione
 
