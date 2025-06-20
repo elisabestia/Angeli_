@@ -42,7 +42,7 @@ Dai passaggi scelti sono stati identificati vari elementi d'interesse, come:
 - responsabili_elementi_ pittorici_sinistra
 
 A partire da una strutturazione preliminare dei dati in formato tabellare (Excel), si è proceduto con la conversione in formato ```.csv``` e, attraverso l'impiego di Open Refine, è stato effettuato il controllo authority relative al campo _nome_chiesa_.   
-Completata questa fase di pulizia e verifica, l'obiettivo era la marcatura dei testi selezionati secondo lo standard XML-TEI, utilizzando come riferimento i dati estratti e strutturati nel file .csv. 
+Completata la fase di pulizia e verifica, il nuovo obiettivo è la marcatura dei testi selezionati secondo lo standard XML-TEI, utilizzando come riferimento i dati estratti e strutturati nel file ```.csv```. 
 
 Tuttavia, il risultato ottenuto presenta una marcata disomogeneità e una scarsa coerenza tra le entità descritte nel file ```.csv``` e la loro rappresentazione nella codifica XML-TEI, con particolare riferimento agli elementi di natura scultorea e pittorica. Ciò compromette l'affidabilità e l'interoperabilità del dataset all'interno di un contesto di valorizzazione e analisi digitale del patrimonio.
 
