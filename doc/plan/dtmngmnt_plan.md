@@ -48,7 +48,7 @@ Tuttavia, il risultato ottenuto presenta una marcata disomogeneità e una scarsa
 
 In ultima analisi, _Quer pasticciaccio_ ha permesso alcune riflessioni e spunti di lavoro futuro: 
 
-- basare la marcatura del testo su un thesaurus consolidato e specifico come il Art and Architecture Thesaurus [Getty Research Institute](https://www.getty.edu/research/tools/vocabularies/aat/)
+- basare la marcatura del testo su un thesaurus consolidato e specifico come l'Art and Architecture Thesaurus curato da [Getty Research Institute](https://www.getty.edu/research/tools/vocabularies/aat/)
 - procedere con l'estrazione e la strutturazione dei dati in ```.csv```
 - completare il processo con la riconciliazione delle authority tramite OpenRefine.
 
