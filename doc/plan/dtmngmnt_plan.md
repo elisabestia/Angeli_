@@ -50,15 +50,15 @@ In ultima analisi, _Quer pasticciaccio_ ha permesso alcune riflessioni e spunti 
 
 1. basare la marcatura del testo su un thesaurus consolidato e specifico come l'Art and Architecture Thesaurus curato da [Getty Research Institute](https://www.getty.edu/research/tools/vocabularies/aat/)
 2. procedere con l'estrazione e la strutturazione dei dati in ```.csv```
-3. completare il processo con la riconciliazione delle authority tramite OpenRefine.
+3. completare il processo con la riconciliazione delle authority tramite Open Refine.
 
 Solo seguendo questo percorso sistematico si potrà ottenere un dataset affidabile, coerente e interoperabile, capace di valorizzare adeguatamente il patrimonio culturale analizzato e di supportare future ricerche digitali in ambito storico-artistico.
 
  # Documentazione e archiviazione dei dati 
 I dati sono archiviati e resi accessibili su Git Hub, il cui dataset è composto da due cartelle:
 
-1. data, che include due sotto cartelle, **csv** e **xml** ;
-2. docs, al cui interno sono presenti la **fonte** utilizzata e il  **data management plan**
+1. **data**, che include due sotto cartelle, **csv** e **xml** ;
+2. **doc**, al cui interno sono presenti la **fonte** utilizzata e il  **data management plan**
 
 Inoltre si è provveduto a preservare i dataset tabellari pubblicandoli su [Zenodo](https://zenodo.org/) e creando un DOI per ognuno di essi. 
 
