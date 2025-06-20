@@ -46,7 +46,7 @@ Completata la fase di pulizia e verifica, il nuovo obiettivo è la marcatura dei
 
 Tuttavia, il risultato ottenuto presenta una marcata disomogeneità e una scarsa coerenza tra le entità descritte nel file ```.csv``` e la loro rappresentazione nella codifica XML-TEI, con particolare riferimento agli elementi di natura scultorea e pittorica. Ciò compromette l'affidabilità e l'interoperabilità del dataset all'interno di un contesto di valorizzazione e analisi digitale del patrimonio.
 
-In ultima analisi, _ Querpasticciaccio_ ha permesso alcune riflessioni e spunti di lavoro futuro: 
+In ultima analisi, _Quer pasticciaccio_ ha permesso alcune riflessioni e spunti di lavoro futuro: 
 
 - partire dalla marcatura del testo utilizzando un thesaurus consolidato come quello del [Getty Research Institute](https://www.getty.edu/research/tools/vocabularies/aat/)
 - procedere con l'estrazione e la strutturazione dei dati in ```.csv```
