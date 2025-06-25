@@ -4,8 +4,7 @@
 Quer pasticciaccio è un progetto di gestione dei dati. È stato realizzato per l'esame del corso di insegnamento in DHDMCH (a.a.2024/2025), presso il Dipartimento di Beni Culturali dell'Univeristà di Bologna.
 
 ## Fonti
-Diego Angeli, Le Chiese di Roma, Roma, Società Editrice Dante Alighieri, 1922.
-
+[Diego Angeli, Le Chiese di Roma, Roma, Società Editrice Dante Alighieri, 1922.](https://archive.org/details/lechiesediromagu00ange_0/page/n7/mode/2up)
 
 ## Metodi e strumenti 
 * [GitHub](https://github.com/)
