@@ -8,11 +8,11 @@ Diego Angeli, Le Chiese di Roma, Roma, Società Editrice Dante Alighieri, 1922.
 
 
 ## Metodi e strumenti 
-* <[GitHub](https://github.com/)>
-* <[Markdown](https://www.markdownguide.org/)>
-* XML TEI
-* <[https://excel.>](https://excel.cloud.microsoft/)
-* <[Open Refine](https://openrefine.org/)>
+* [GitHub](https://github.com/)
+* [Markdown](https://www.markdownguide.org/)
+* [XML TEI](https://code.visualstudio.com/)
+* [https://excel.>](https://excel.cloud.microsoft/)
+* [Open Refine](https://openrefine.org/)
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 
 ## Credits 
