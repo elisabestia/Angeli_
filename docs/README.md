@@ -1,5 +1,5 @@
 # Docs 
 
 La cartella docs presenta al suo interno due sottocartelle: 
-1. **fonti**, al cui interno vi è il ```.txt``` dell'opera [Diego Angeli, Le Chiese di Roma, Roma, Società Editrice Dante Alighieri, 1922.](https://archive.org/details/lechiesediromagu00ange_0/page/n7/mode/2up)
-2. **plan**, contenente il piano di gestione dei dati
+- **fonti** al cui interno vi è il ```.txt``` dell'opera [Diego Angeli, Le Chiese di Roma, Roma, Società Editrice Dante Alighieri, 1922.](https://archive.org/details/lechiesediromagu00ange_0/page/n7/mode/2up)
+- **plan** contenente il piano di gestione dei dati
