@@ -1,4 +1,4 @@
-# Quer pasticciaccio, Esame DHDM 2024/2025 More actions
+# Quer pasticciaccio, Esame DHDM 2024/2025 
 
 ## Descrizione
 Quer pasticciaccio è un progetto di gestione dei dati. È stato realizzato per l'esame del corso di insegnamento in DHDMCH (a.a.2024/2025), presso il Dipartimento di Beni Culturali dell'Univeristà di Bologna.
