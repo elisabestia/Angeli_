@@ -6,10 +6,10 @@
 - [Documentazione e archiviazione dei dati](#Documentazioneearchiviazionedeidati)
 - [Licenza](#Licenza)
 
- ## Autrice
+# Autrice
 Elisabetta Sabattini, <https://orcid.org/0009-0007-9900-8895>, Università di Bologna 
 
- ### Sommario esecutivo
+# Sommario esecutivo
 1. Scelta dei brani dall'opera di Diego [Diego Angeli, Le Chiese di Roma, Roma, Società Editrice Dante Alighieri, 1922.](https://archive.org/details/lechiesediromagu00ange_0/page/n7/mode/2up)
 2. Dai testi scelti in formato ```.txt```, estrazione manuale dei dati 
 4. Organizzazione in forma tabellare tramite [Excel](https://excel.cloud.microsoft/)
@@ -18,10 +18,10 @@ Elisabetta Sabattini, <https://orcid.org/0009-0007-9900-8895>, Università di Bo
 7. Sulla base dell'ultima tabella ```.csv```, marcatura seguendo [XML TEI](https://vscode.dev/)
 8. Ipotesi di lavoro
 
- #### Introduzione
+# Introduzione
 _Quer pasticciaccio_ è il titolo del progetto d’esame per il corso di [DHDM](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2024/502386) (a.a. 2024/2025). Il progetto mira alla realizzazione di una pipeline capace di integrare i dati presenti nei file ```.csv```, verificarne le authority e convertirli secondo il formato XML TEI. Sebbene il risultato finale si discosti dall'obiettivo iniziale, il lavoro svolto ha offerto spunti significativi di riflessione e individuato possibili direzioni di sviluppo futuro.
 
- ##### Descrizione dei dati
+# Descrizione dei dati
 ![image](https://github.com/user-attachments/assets/b0b8f115-f4aa-44b0-927f-19f16f7aea75)
 
 I dati sono stati raccolti a partire dalla versione formato ```.txt``` dell'opera di Diego Angeli, Le Chiese di Roma. 
@@ -54,7 +54,7 @@ In ultima analisi, _Quer pasticciaccio_ ha permesso alcune riflessioni e spunti 
 
 Solo seguendo questo percorso sistematico si potrà ottenere un dataset affidabile, coerente e interoperabile, capace di valorizzare adeguatamente il patrimonio culturale analizzato e di supportare future ricerche digitali in ambito storico-artistico.
 
- ###### Documentazione e archiviazione dei dati 
+# Documentazione e archiviazione dei dati 
 I dati sono archiviati e resi accessibili su Git Hub, il cui dataset è composto da due cartelle:
 
 1. **data**, che include due sotto cartelle, **csv** e **xml** ;
