@@ -7,7 +7,7 @@ Quer pasticciaccio è un progetto di gestione dei dati. È stato realizzato per 
 [Diego Angeli, Le Chiese di Roma, Roma, Società Editrice Dante Alighieri, 1922.](https://archive.org/details/lechiesediromagu00ange_0/page/n7/mode/2up)
 
 ## Metodi e strumenti 
-* [Git Hub](https://github.com/elisabestia/qrpstcccc_project_dhdm)
+* [Git Hub](https://github.com/elisabestia/qrpstcccc_project_dhdm/blob/main/docs/plan/dtmngmnt_plan.md)
 * [Markdown](https://www.markdownguide.org/)
 * [XML TEI](https://code.visualstudio.com/)
 * [Excel](https://excel.cloud.microsoft/)
